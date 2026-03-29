@@ -1,0 +1,5 @@
+//what is split? ln48
+//what is usestate? ln33
+
+  {/* <Textform heading="Enter the Text To Analyze belows"/>   */}
+   //  import Textform from './TextForm'
